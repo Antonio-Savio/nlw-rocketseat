@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online](https://github.com/Antonio-Savio/nlw-rocketseat)
+- [Visite o projeto online](https://antonio-savio.github.io/nlw-rocketseat/)
 
 ## 🔖 Layout
 
